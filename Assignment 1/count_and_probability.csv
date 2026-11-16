@@ -1,0 +1,5 @@
+Text,Count_Vector,Probability
+This is the first document.,"[0, 1, 1, 1, 0, 0, 1, 0, 1]","[1/5, 1/5, 1/5, 1/5, 1/5]"
+This document is the second document.,"[0, 2, 0, 1, 0, 1, 1, 0, 1]","[1/6, 2/6, 1/6, 1/6, 1/6, 2/6]"
+And this is the third one.,"[1, 0, 0, 1, 1, 0, 1, 1, 1]","[1/6, 1/6, 1/6, 1/6, 1/6, 1/6]"
+Is this the first document?,"[0, 1, 1, 1, 0, 0, 1, 0, 1]","[1/5, 1/5, 1/5, 1/5, 1/5]"
